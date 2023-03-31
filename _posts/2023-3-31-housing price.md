@@ -1,3 +1,7 @@
+---
+layout: post
+title:  "실습예제"
+---
 ```python
 import numpy as np
 import pandas as pd
