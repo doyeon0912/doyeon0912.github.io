@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "실습예제"
+title:  "bike- sharing (수요예측)제실습예제"
 ---
 ```python
 import numpy as np
